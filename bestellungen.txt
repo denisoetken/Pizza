@@ -1,0 +1,1 @@
+{"pizzaSize":"24","ausgewaehlterKaese":"emmentaler","ausgewaehlteBelege":["Chorizowurst","Chamipgnons","Artischocken","Zwiebeln"]}

@@ -1,0 +1,17 @@
+{
+  "pizzaSize": {
+    "24": "3",
+    "28": "4",
+    "32": "5"
+  },
+  "ausgewaehlterKaese": {
+    "gouda": "1.5",
+    "mozzarella": "2.5",
+    "emmentaler": "1"
+  }
+  "ausgewaehlteBelege": {
+    "24": "1",
+    "28": "1.5",
+    "32": "2"
+  }
+}
